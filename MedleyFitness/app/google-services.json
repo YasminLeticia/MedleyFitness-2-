@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "192861268020",
+    "project_id": "medley-fitness",
+    "storage_bucket": "medley-fitness.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192861268020:android:7e7f709962f91e25d74261",
+        "android_client_info": {
+          "package_name": "devandroid.vinicius.medleyfitness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192861268020-jgn07090rgpmtr1dqb1dcefn9s8hrb4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAng-TsdwZn_0in1s_i7_zRK307hi6TuOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192861268020-jgn07090rgpmtr1dqb1dcefn9s8hrb4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
